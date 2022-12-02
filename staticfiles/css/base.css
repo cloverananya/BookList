@@ -1,0 +1,11 @@
+body {
+min-height: 75rem;
+padding-top: 4.5rem;
+}
+h1 {
+color: #4ac1f7;
+}
+img.bookcover {
+height: 300px;
+width: auto;
+}
